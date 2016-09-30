@@ -1,15 +1,1 @@
-2
-4
-<<<<<<< HEAD
-7
-=======
-7
-3
-8
-Resolve Merge
-<<<<<<< HEAD
-=======
-5
-6
-9
-Resolve Merge
+Abcd
