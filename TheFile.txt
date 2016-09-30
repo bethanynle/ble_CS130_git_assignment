@@ -7,3 +7,9 @@
 3
 8
 Resolve Merge
+<<<<<<< HEAD
+=======
+5
+6
+9
+Resolve Merge
